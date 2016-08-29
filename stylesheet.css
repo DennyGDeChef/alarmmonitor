@@ -1,0 +1,105 @@
+body {
+  background-color:#000;
+}
+
+#kreisg1 {
+  background-color: lime;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 2.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+}
+
+#kreisg2 {
+  background-color: lime;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 16.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+}
+
+#kreisr1 {
+  background-color: red;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 2.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+}
+
+#kreisr2 {
+  background-color: red;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 16.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+  display: none;i
+}
+
+#kreisb1 {
+  background-color: blue;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 2.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+}
+
+#kreisb2 {
+  background-color: blue;
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  top: 16.0em;
+  left: 2.0em;
+  border: none;
+  border-radius: 100%;
+  display: none;
+}
+
+#fahrzeuge {
+  position: absolute;
+  top: 0.3em;
+  left: 2.0em;
+  border: none;
+  color: yellow;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 8em;
+}
+
+#stichwort {
+  position: absolute;
+  top: 5em;
+  left: 1em;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 6em;
+
+}
+
+#einsatzort {
+  position: absolute;
+  top: 6.5em;
+  left: 1em;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 6em;
+
+}
+

@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: Arial Black, Arial, sans-serif;
+}
+
+h3 {
+  color: black;
+}
+
+h2 {
+  color: yellow;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+fieldset {
+  border: 0px;
+  margin: 10px 0px;
+  padding: 0px;
+  border-spacing: 1px;
+}
