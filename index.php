@@ -33,11 +33,13 @@
         break;
       default:
         echo '<div id="kreisg1"></div>';
+        echo '<div id="kreisg2"></div>';
         break;
     }
   }
   else {
     echo '<div id="kreisg1"></div>';
+    echo '<div id="kreisg2"></div>';
   }
 ?>
   </body>
